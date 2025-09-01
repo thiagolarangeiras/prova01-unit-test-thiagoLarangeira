@@ -6,7 +6,7 @@
 
 ## SonarCloud
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ugioni_unit-tests-jest&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ugioni_unit-tests-jest)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=thiagolarangeiras_prova01-unit-test-thiagoLarangeira&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=thiagolarangeiras_prova01-unit-test-thiagoLarangeira)
 
 ## Getting Started
 
